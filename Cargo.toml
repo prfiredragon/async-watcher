@@ -2,11 +2,11 @@
 name = "async-watcher"
 description = "Trigger events when files or directories change"
 authors = ["Justin Rubek"]
-edition = "2021"
-homepage = "https://github.com/justinrubek/async-watcher"
+edition = "2024"
+homepage = "https://github.com/prfiredragon/async-watcher"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/justinrubek/async-watcher"
+repository = "https://github.com/prfiredragon/async-watcher"
 version = "0.4.0"
 
 [dependencies]
